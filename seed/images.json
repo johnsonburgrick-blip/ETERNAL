@@ -1,0 +1,498 @@
+{
+ "hero-library": {
+  "url": "/assets/img/hero-library.jpg",
+  "width": 1280,
+  "height": 850,
+  "size": 258221,
+  "variants": [
+   {
+    "w": 480,
+    "url": "/assets/img/hero-library-480.webp",
+    "mime": "image/webp",
+    "size": 38290
+   },
+   {
+    "w": 960,
+    "url": "/assets/img/hero-library-960.webp",
+    "mime": "image/webp",
+    "size": 133608
+   },
+   {
+    "w": 1600,
+    "url": "/assets/img/hero-library-1600.webp",
+    "mime": "image/webp",
+    "size": 319548
+   },
+   {
+    "w": 1920,
+    "url": "/assets/img/hero-library-1920.webp",
+    "mime": "image/webp",
+    "size": 435076
+   }
+  ],
+  "title": "Philosophical Hall of the Strahov Monastery library, Prague",
+  "alt": {
+   "en": "Philosophical Hall of the Strahov Monastery library, Prague",
+   "fr": "Salle philosophique de la bibliothèque du monastère de Strahov, Prague"
+  },
+  "category": "architecture",
+  "credit": "Bjørn Erik Pedersen",
+  "license": "CC BY 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Philosophical_Hall_(Strahov_Monastery)_3.jpg"
+ },
+ "admont-library": {
+  "url": "/assets/img/admont-library.jpg",
+  "width": 1280,
+  "height": 853,
+  "size": 240553,
+  "variants": [
+   {
+    "w": 480,
+    "url": "/assets/img/admont-library-480.webp",
+    "mime": "image/webp",
+    "size": 38656
+   },
+   {
+    "w": 960,
+    "url": "/assets/img/admont-library-960.webp",
+    "mime": "image/webp",
+    "size": 125168
+   },
+   {
+    "w": 1600,
+    "url": "/assets/img/admont-library-1600.webp",
+    "mime": "image/webp",
+    "size": 254176
+   },
+   {
+    "w": 1920,
+    "url": "/assets/img/admont-library-1920.webp",
+    "mime": "image/webp",
+    "size": 326436
+   }
+  ],
+  "title": "The baroque library hall of Admont Abbey, Austria",
+  "alt": {
+   "en": "The baroque library hall of Admont Abbey, Austria",
+   "fr": "La bibliothèque baroque de l'abbaye d'Admont, Autriche"
+  },
+  "category": "architecture",
+  "credit": "Jorge Royan",
+  "license": "CC BY-SA 3.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Austria_-_Admont_Abbey_Library_-_1326.jpg"
+ },
+ "orrery": {
+  "url": "/assets/img/orrery.jpg",
+  "width": 1280,
+  "height": 947,
+  "size": 97401,
+  "variants": [
+   {
+    "w": 480,
+    "url": "/assets/img/orrery-480.webp",
+    "mime": "image/webp",
+    "size": 6914
+   },
+   {
+    "w": 960,
+    "url": "/assets/img/orrery-960.webp",
+    "mime": "image/webp",
+    "size": 24044
+   },
+   {
+    "w": 1600,
+    "url": "/assets/img/orrery-1600.webp",
+    "mime": "image/webp",
+    "size": 68608
+   },
+   {
+    "w": 1920,
+    "url": "/assets/img/orrery-1920.webp",
+    "mime": "image/webp",
+    "size": 103280
+   }
+  ],
+  "title": "Joseph Wright of Derby, A Philosopher Lecturing on the Orrery (c. 1766)",
+  "alt": {
+   "en": "Joseph Wright of Derby, A Philosopher Lecturing on the Orrery (c. 1766)",
+   "fr": "Joseph Wright of Derby, Un philosophe faisant une conférence sur l'orrery (v. 1766)"
+  },
+  "category": "history",
+  "credit": "Joseph Wright of Derby",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby_-_Philosopher_giving_a_lecture_on_the_orrery_-_Google_Art_Project.jpg"
+ },
+ "pantheon": {
+  "url": "/assets/img/pantheon.jpg",
+  "width": 1280,
+  "height": 1664,
+  "size": 408766,
+  "variants": [
+   {
+    "w": 480,
+    "url": "/assets/img/pantheon-480.webp",
+    "mime": "image/webp",
+    "size": 44494
+   },
+   {
+    "w": 960,
+    "url": "/assets/img/pantheon-960.webp",
+    "mime": "image/webp",
+    "size": 180532
+   },
+   {
+    "w": 1600,
+    "url": "/assets/img/pantheon-1600.webp",
+    "mime": "image/webp",
+    "size": 583638
+   },
+   {
+    "w": 1920,
+    "url": "/assets/img/pantheon-1920.webp",
+    "mime": "image/webp",
+    "size": 929972
+   }
+  ],
+  "title": "Giovanni Paolo Panini, Interior of the Pantheon, Rome (c. 1734)",
+  "alt": {
+   "en": "Giovanni Paolo Panini, Interior of the Pantheon, Rome (c. 1734)",
+   "fr": "Giovanni Paolo Panini, Intérieur du Panthéon, Rome (v. 1734)"
+  },
+  "category": "architecture",
+  "credit": "Giovanni Paolo Panini",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Paolo_Panini,_Interior_of_the_Pantheon,_Rome,_c._1734,_NGA_165.jpg"
+ },
+ "weishaupt": {
+  "url": "/assets/img/weishaupt.jpg",
+  "width": 900,
+  "height": 1170,
+  "size": 259335,
+  "variants": [
+   {
+    "w": 480,
+    "url": "/assets/img/weishaupt-480.webp",
+    "mime": "image/webp",
+    "size": 62318
+   },
+   {
+    "w": 800,
+    "url": "/assets/img/weishaupt-800.webp",
+    "mime": "image/webp",
+    "size": 201132
+   },
+   {
+    "w": 1100,
+    "url": "/assets/img/weishaupt-1100.webp",
+    "mime": "image/webp",
+    "size": 350376
+   }
+  ],
+  "title": "Engraved portrait of Adam Weishaupt",
+  "alt": {
+   "en": "Engraved portrait of Adam Weishaupt",
+   "fr": "Portrait gravé d'Adam Weishaupt"
+  },
+  "category": "portraits",
+  "credit": "Unknown engraver",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Johann_Adam_Weishaupt.jpg"
+ },
+ "knigge": {
+  "url": "/assets/img/knigge.jpg",
+  "width": 512,
+  "height": 812,
+  "size": 125076,
+  "variants": [
+   {
+    "w": 480,
+    "url": "/assets/img/knigge-480.webp",
+    "mime": "image/webp",
+    "size": 105026
+   },
+   {
+    "w": 512,
+    "url": "/assets/img/knigge-512.webp",
+    "mime": "image/webp",
+    "size": 122132
+   }
+  ],
+  "title": "Engraved portrait of Adolph Freiherr Knigge",
+  "alt": {
+   "en": "Engraved portrait of Adolph Freiherr Knigge",
+   "fr": "Portrait gravé d'Adolph Freiherr Knigge"
+  },
+  "category": "portraits",
+  "credit": "Rijksmuseum, Amsterdam",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Portret_van_Adolph%2C_Freyherr_von_Knigge%2C_RP-P-1914-550.jpg"
+ },
+ "goethe": {
+  "url": "/assets/img/goethe.jpg",
+  "width": 900,
+  "height": 1110,
+  "size": 104757,
+  "variants": [
+   {
+    "w": 480,
+    "url": "/assets/img/goethe-480.webp",
+    "mime": "image/webp",
+    "size": 13064
+   },
+   {
+    "w": 800,
+    "url": "/assets/img/goethe-800.webp",
+    "mime": "image/webp",
+    "size": 42928
+   },
+   {
+    "w": 1100,
+    "url": "/assets/img/goethe-1100.webp",
+    "mime": "image/webp",
+    "size": 105536
+   }
+  ],
+  "title": "Johann Wolfgang von Goethe, portrait by Joseph Karl Stieler (1828)",
+  "alt": {
+   "en": "Johann Wolfgang von Goethe, portrait by Joseph Karl Stieler (1828)",
+   "fr": "Johann Wolfgang von Goethe, portrait par Joseph Karl Stieler (1828)"
+  },
+  "category": "portraits",
+  "credit": "Joseph Karl Stieler",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Goethe_%28Stieler_1828%29.jpg"
+ },
+ "karl-theodor": {
+  "url": "/assets/img/karl-theodor.jpg",
+  "width": 536,
+  "height": 768,
+  "size": 57306,
+  "variants": [
+   {
+    "w": 480,
+    "url": "/assets/img/karl-theodor-480.webp",
+    "mime": "image/webp",
+    "size": 33284
+   },
+   {
+    "w": 536,
+    "url": "/assets/img/karl-theodor-536.webp",
+    "mime": "image/webp",
+    "size": 40858
+   }
+  ],
+  "title": "Elector Karl Theodor, portrait by Pompeo Batoni",
+  "alt": {
+   "en": "Elector Karl Theodor, portrait by Pompeo Batoni",
+   "fr": "L'électeur Charles-Théodore, portrait par Pompeo Batoni"
+  },
+  "category": "portraits",
+  "credit": "Pompeo Batoni; Bavarian State Painting Collections",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Pompeo_Girolamo_Batoni_-_Kurf%C3%BCrst_Karl_Theodor_von_der_Pfalz_-_181_-_Bavarian_State_Painting_Collections.jpg"
+ },
+ "ernst-ii": {
+  "url": "/assets/img/ernst-ii.jpg",
+  "width": 900,
+  "height": 1291,
+  "size": 144439,
+  "variants": [
+   {
+    "w": 480,
+    "url": "/assets/img/ernst-ii-480.webp",
+    "mime": "image/webp",
+    "size": 21846
+   },
+   {
+    "w": 800,
+    "url": "/assets/img/ernst-ii-800.webp",
+    "mime": "image/webp",
+    "size": 73116
+   },
+   {
+    "w": 1100,
+    "url": "/assets/img/ernst-ii-1100.webp",
+    "mime": "image/webp",
+    "size": 155916
+   }
+  ],
+  "title": "Duke Ernst II of Saxe-Gotha-Altenburg, portrait by Johann Georg Ziesenis",
+  "alt": {
+   "en": "Duke Ernst II of Saxe-Gotha-Altenburg, portrait by Johann Georg Ziesenis",
+   "fr": "Le duc Ernest II de Saxe-Gotha-Altenbourg, portrait par Johann Georg Ziesenis"
+  },
+  "category": "portraits",
+  "credit": "Johann Georg Ziesenis",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Johann_Georg_Ziesenis_-_Herzog_Ernst_II._Ludwig_von_Sachsen-Gotha_und_Altenburg_%281745-1804%29.jpg"
+ },
+ "bode": {
+  "url": "/assets/img/bode.jpg",
+  "width": 900,
+  "height": 1479,
+  "size": 563910,
+  "variants": [
+   {
+    "w": 480,
+    "url": "/assets/img/bode-480.webp",
+    "mime": "image/webp",
+    "size": 156918
+   },
+   {
+    "w": 800,
+    "url": "/assets/img/bode-800.webp",
+    "mime": "image/webp",
+    "size": 499124
+   },
+   {
+    "w": 1100,
+    "url": "/assets/img/bode-1100.webp",
+    "mime": "image/webp",
+    "size": 891126
+   }
+  ],
+  "title": "Portrait of Johann Joachim Christoph Bode",
+  "alt": {
+   "en": "Portrait of Johann Joachim Christoph Bode",
+   "fr": "Portrait de Johann Joachim Christoph Bode"
+  },
+  "category": "portraits",
+  "credit": "Unknown artist",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:PPN663961203_Iohann_Ioachim_Christoph_Bode.jpg"
+ },
+ "kant": {
+  "url": "/assets/img/kant.jpg",
+  "width": 900,
+  "height": 1175,
+  "size": 89807,
+  "variants": [
+   {
+    "w": 480,
+    "url": "/assets/img/kant-480.webp",
+    "mime": "image/webp",
+    "size": 15960
+   },
+   {
+    "w": 800,
+    "url": "/assets/img/kant-800.webp",
+    "mime": "image/webp",
+    "size": 36868
+   },
+   {
+    "w": 1009,
+    "url": "/assets/img/kant-1009.webp",
+    "mime": "image/webp",
+    "size": 49104
+   }
+  ],
+  "title": "Portrait of Immanuel Kant",
+  "alt": {
+   "en": "Portrait of Immanuel Kant",
+   "fr": "Portrait d'Emmanuel Kant"
+  },
+  "category": "portraits",
+  "credit": "Unknown artist",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Immanuel_Kant_-_Gemaelde_1.jpg"
+ },
+ "ingolstadt": {
+  "url": "/assets/img/ingolstadt.jpg",
+  "width": 1280,
+  "height": 1893,
+  "size": 230493,
+  "variants": [
+   {
+    "w": 480,
+    "url": "/assets/img/ingolstadt-480.webp",
+    "mime": "image/webp",
+    "size": 23194
+   },
+   {
+    "w": 960,
+    "url": "/assets/img/ingolstadt-960.webp",
+    "mime": "image/webp",
+    "size": 70620
+   },
+   {
+    "w": 1280,
+    "url": "/assets/img/ingolstadt-1280.webp",
+    "mime": "image/webp",
+    "size": 106872
+   }
+  ],
+  "title": "The Hohe Schule, former university building in Ingolstadt",
+  "alt": {
+   "en": "The Hohe Schule, former university building in Ingolstadt",
+   "fr": "La Hohe Schule, ancien bâtiment de l'université d'Ingolstadt"
+  },
+  "category": "architecture",
+  "credit": "Wikimedia Commons contributor (public domain)",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Hohe_Schule_Ingolstadt.JPG"
+ },
+ "minerval": {
+  "url": "/assets/img/minerval.jpg",
+  "width": 670,
+  "height": 1327,
+  "size": 134023,
+  "variants": [
+   {
+    "w": 480,
+    "url": "/assets/img/minerval-480.webp",
+    "mime": "image/webp",
+    "size": 57488
+   },
+   {
+    "w": 670,
+    "url": "/assets/img/minerval-670.webp",
+    "mime": "image/webp",
+    "size": 99448
+   }
+  ],
+  "title": "Title page of Adam Weishaupt, Das verbesserte System der Illuminaten (1788), with the owl of Minerva emblem",
+  "alt": {
+   "en": "Title page of Adam Weishaupt, Das verbesserte System der Illuminaten (1788), with the owl of Minerva emblem",
+   "fr": "Page de titre d'Adam Weishaupt, Das verbesserte System der Illuminaten (1788), avec l'emblème de la chouette de Minerve"
+  },
+  "category": "manuscripts",
+  "credit": "Unknown",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Minerval_insignia.png"
+ },
+ "great-seal": {
+  "url": "/assets/img/great-seal.jpg",
+  "width": 900,
+  "height": 452,
+  "size": 74671,
+  "variants": [
+   {
+    "w": 480,
+    "url": "/assets/img/great-seal-480.webp",
+    "mime": "image/webp",
+    "size": 22508
+   },
+   {
+    "w": 800,
+    "url": "/assets/img/great-seal-800.webp",
+    "mime": "image/webp",
+    "size": 45186
+   },
+   {
+    "w": 995,
+    "url": "/assets/img/great-seal-995.webp",
+    "mime": "image/webp",
+    "size": 60822
+   }
+  ],
+  "title": "Obverse and reverse of the Great Seal of the United States",
+  "alt": {
+   "en": "Obverse and reverse of the Great Seal of the United States",
+   "fr": "Avers et revers du grand sceau des États-Unis"
+  },
+  "category": "history",
+  "credit": "U.S. Government",
+  "license": "Public domain",
+  "source": "https://commons.wikimedia.org/wiki/File:Great_Seal_of_the_United_States_%28obverse_and_reverse%29.png"
+ }
+}

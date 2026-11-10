@@ -1,0 +1,44 @@
+name = "eternal-illuminati-covenant"
+main = "src/index.tsx"
+compatibility_date = "2025-09-01"
+workers_dev = true
+
+# Static files in ./public are served directly by Cloudflare without invoking the Worker.
+[assets]
+directory = "./public"
+binding = "ASSETS"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "eic"
+# Replace with the id printed by: npx wrangler d1 create eic
+database_id = "00000000-0000-0000-0000-000000000000"
+migrations_dir = "migrations"
+
+[[r2_buckets]]
+binding = "BUCKET"
+bucket_name = "eic-files"
+
+# Gives every deploy a unique id + timestamp; the snapshot read-model uses it
+# to ignore snapshot copies written by an older build.
+[version_metadata]
+binding = "CF_VERSION_METADATA"
+
+[triggers]
+# every 5 min: scheduled publications + email retries. daily 03:17 UTC: cleanup + backup.
+crons = ["*/5 * * * *", "17 3 * * *"]
+
+[observability]
+enabled = true
+
+# Non-secret configuration. Secrets (RESEND_API_KEY, AUTH_PEPPER, TOKEN_SECRET,
+# TURNSTILE_SECRET_KEY) are set with `npx wrangler secret put NAME` — never here.
+[vars]
+ENVIRONMENT = "production"
+PUBLIC_BASE_URL = "https://yourdomain.com"
+EMAIL_FROM = "noreply@yourdomain.com"
+EMAIL_FROM_NAME = "Eternal Illuminati Covenant"
+EMAIL_REPLY_TO = "support@yourdomain.com"
+ADMIN_NOTIFY_EMAIL = "support@yourdomain.com"
+TURNSTILE_SITE_KEY = ""
+SNAPSHOT_MODE = "on"

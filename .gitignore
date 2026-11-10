@@ -1,0 +1,8 @@
+node_modules/
+.wrangler/
+.dev.vars
+.dev.vars.*
+dist/
+test/.state/
+seed/cache/
+test/.qa-state/
